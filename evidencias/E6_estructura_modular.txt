@@ -1,0 +1,41 @@
+Estructura modular (archivos fuente, sin build/)
+Módulos en settings.gradle.kts: :app, :ui, :datos, :utilidades
+
+  app/src/androidTest/java/com/example/veterinariaapp/ExampleInstrumentedTest.kt
+  app/src/main/AndroidManifest.xml
+  app/src/main/java/com/example/veterinariaapp/MainActivity.kt
+  app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+  app/src/main/res/drawable/ic_launcher_background.xml
+  app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+  app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+  app/src/main/res/values/colors.xml
+  app/src/main/res/values/strings.xml
+  app/src/main/res/values/themes.xml
+  app/src/main/res/xml/backup_rules.xml
+  app/src/main/res/xml/data_extraction_rules.xml
+  datos/src/main/java/com/example/veterinariaapp/datos/DatosIniciales.kt
+  datos/src/main/java/com/example/veterinariaapp/modelo/Calculos.kt
+  datos/src/main/java/com/example/veterinariaapp/modelo/Categoria.kt
+  datos/src/main/java/com/example/veterinariaapp/modelo/Cliente.kt
+  datos/src/main/java/com/example/veterinariaapp/modelo/Consulta.kt
+  datos/src/main/java/com/example/veterinariaapp/modelo/EstadoPedido.kt
+  datos/src/main/java/com/example/veterinariaapp/modelo/Mascota.kt
+  datos/src/main/java/com/example/veterinariaapp/modelo/Pedido.kt
+  datos/src/main/java/com/example/veterinariaapp/modelo/Producto.kt
+  datos/src/main/java/com/example/veterinariaapp/modelo/Registro.kt
+  datos/src/main/java/com/example/veterinariaapp/servicio/ResultadoPedido.kt
+  datos/src/main/java/com/example/veterinariaapp/servicio/ResultadoRegistro.kt
+  datos/src/main/java/com/example/veterinariaapp/servicio/Veterinaria.kt
+  datos/src/test/java/com/example/veterinariaapp/VeterinariaTest.kt
+  ui/src/main/java/com/example/veterinariaapp/ui/PantallaVeterinaria.kt
+  ui/src/main/java/com/example/veterinariaapp/ui/Seccion.kt
+  ui/src/main/java/com/example/veterinariaapp/ui/Secciones.kt
+  ui/src/main/java/com/example/veterinariaapp/ui/VeterinariaViewModel.kt
+  ui/src/main/java/com/example/veterinariaapp/ui/theme/Color.kt
+  ui/src/main/java/com/example/veterinariaapp/ui/theme/Theme.kt
+  ui/src/main/java/com/example/veterinariaapp/ui/theme/Type.kt
+  utilidades/src/main/java/com/example/veterinariaapp/utils/Formato.kt
+  utilidades/src/main/java/com/example/veterinariaapp/utils/Resultado.kt
+  utilidades/src/main/java/com/example/veterinariaapp/utils/Validaciones.kt
+  utilidades/src/test/java/com/example/veterinariaapp/utils/FormatoTest.kt
+  utilidades/src/test/java/com/example/veterinariaapp/utils/ValidacionesTest.kt

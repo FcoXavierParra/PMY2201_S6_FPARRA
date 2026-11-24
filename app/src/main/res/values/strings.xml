@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Veterinaria</string>
+    <string name="mensaje_bienvenida">Bienvenidos a nuestra veterinaria</string>
+    <string name="nombre_veterinaria">Clínica veterinaria · gestión de clientes, mascotas y pedidos</string>
+</resources>

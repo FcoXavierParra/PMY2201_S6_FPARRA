@@ -1,0 +1,4 @@
+Pruebas unitarias: gradlew testDebugUnitTest
+utilidades: FormatoTest (1), ValidacionesTest (5)
+datos: VeterinariaTest (13)
+Total: 19, todas en verde (0 fallos, 0 errores)
